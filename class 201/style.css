@@ -1,0 +1,48 @@
+.main {
+
+   
+
+    background-color: rgb(116, 25, 116);
+    }
+
+#links {
+   
+
+    background-color: rgb(0, 247, 41);
+    }
+    
+
+
+.para1{
+
+color: rgb(248, 248, 248);
+background-color: tomato;
+
+
+}
+.para2{
+
+    color: rgb(248, 248, 248);
+    background-color: rgb(197, 37, 37);
+  
+    }
+    .para3{
+
+        color: rgb(248, 248, 248);
+        background-color: rgb(46, 139, 175);
+      
+        }
+        .para4{
+
+            color: rgb(248, 248, 248);
+            background-color: rgb(105, 65, 158);
+          
+            }
+#foot {
+
+text-align: center;
+color: rgb(15, 59, 70);
+
+}
+
+
